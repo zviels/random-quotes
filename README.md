@@ -1,2 +1,2 @@
-# random-quotes
+# Random Quotes
  My First Techdegree Project
