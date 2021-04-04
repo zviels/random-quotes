@@ -2,10 +2,16 @@
 
  let quotes = [];
 
- // Getters
+ // Functions
 
- const getRandomValue = () => Math.floor(Math.random() * 256);
- const getRandomColor = () => 'rgb(' + getRandomValue() + ', ' + getRandomValue() + ', ' + getRandomValue() + ')';
+ // getRandomColor
+
+ const getRandomColor = () => {
+
+    const getRandomValue = () => Math.floor(Math.random() * 256);
+    return 'rgb(' + getRandomValue() + ', ' + getRandomValue() + ', ' + getRandomValue() + ')';
+
+ }
 
  // getRandomQuote
 
@@ -19,7 +25,7 @@
 
  }
 
- // The 'getHTML' Function Returns The HTML Structure Of A Quote
+ // getHTML
 
  const getHTML = (randomQuote) => {
 
@@ -38,11 +44,9 @@
 
  }
 
- // Setters
+ // setBackgroundColor
 
  const setBackgroundColor = () => document.querySelector('body').style.backgroundColor = getRandomColor();
-
- // Main Functions
 
  // printTags
 
