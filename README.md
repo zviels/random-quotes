@@ -94,7 +94,7 @@ This project received the **"Exceeds Expectations"** rating.
 ## Thanks
 
 <a href="https://teamtreehouse.com">
-  <img src="https://static.teamtreehouse.com/assets/marketing/opengraph/logo_twitter-cd0ecb90408499f45a2191805f54362981da5a69ddcfaa6ec93556d64e289036.png" alt="Treehouse Logo" width="200" height="100">
+  <img src="https://static.teamtreehouse.com/assets/marketing/opengraph/logo_twitter-cd0ecb90408499f45a2191805f54362981da5a69ddcfaa6ec93556d64e289036.png" alt="Treehouse Logo" width="500" height="250">
 </a>
 
 Thanks to [Treehouse](https://teamtreehouse.com) for providing the starter files for this project -
