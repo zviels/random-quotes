@@ -93,7 +93,9 @@ To meet the requirements of the project I also had to provide code comments.
 
 ### Additional Features
 
-Here are some additional features that I implemented for the app, even though I didn't have to. These features may extend the functionality of the app, improve the user experience or beautify the user interface.
+Here I will list additional features that I implemented for the app, even though I didn't have to. These features may extend the functionality of the app, improve the user experience or beautify the user interface.
+
+As of this moment I have implemented one additional feature for the app.
 
 When I tested the project, I noticed that it is quite common to get the same quote twice in a row. I fixed that. In the current situation, the quotes will start repeating themselves only after each quote has already been displayed on the page once.
 
