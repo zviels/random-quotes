@@ -11,7 +11,7 @@ To view the app -
 
 ## Overview
 
-As mentioned above, I developed this app as part of my studies at [Treehouse](https://teamtreehouse.com). I participated in their [Techdegree](https://teamtreehouse.com/techdegree) program. This section will describe the requirements I had to meet to complete this project.
+As mentioned above, I developed this app as part of my studies at [Treehouse](https://teamtreehouse.com). I participated in their [Techdegree](https://teamtreehouse.com/techdegree) program. This section will describe the requirements I had to meet to complete this project. At the end of this section you will also be able to find additional features I chose to implement for the app.
 
 ### Project Requirements
 
@@ -73,6 +73,17 @@ To exceed expectations, I had to -
 #### Code Comments
 
 To meet the requirements of the project I also had to provide code comments.
+
+### Additional Features
+
+Here I will list additional features that I implemented for the app, even though I didn't have to. These features may extend the functionality of the app, improve the user experience or beautify the user interface.
+
+When I tested the project, I noticed that it is quite common to get the same quote twice in a row. I fixed it. In the current situation the quotes will start repeating themselves only after each quote has already been displayed on the page once.
+
+### Rating
+
+There are two possible grades for each Techdegree project - "Meets Expectations" and "Exceeds Expectations".
+This project received the **"Exceeds Expectations"** rating.
 
 ## Built With
 
