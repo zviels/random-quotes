@@ -11,7 +11,24 @@ To view the app -
 
 ## Overview
 
-As mentioned above, I developed this app as part of my studies at [Treehouse](https://teamtreehouse.com). I participated in their [Techdegree](https://teamtreehouse.com/techdegree) program. This section will describe the requirements I had to meet to complete this project. At the end of this section you will also be able to find additional features I chose to implement for the app.
+As mentioned above, I developed this app as part of my studies at [Treehouse](https://teamtreehouse.com). I participated in their [Techdegree](https://teamtreehouse.com/techdegree) program. In this section you can read about -
+
+- The topics I learned before I started developing the app.
+- The requirements I had to meet to complete this project.
+- Additional features I chose to implement for the app.
+- The rating the project received.
+
+### What Did I Learn?
+
+Here is what I learned before I started working on the project -
+
+- Introduction to HTML and CSS
+- JavaScript Basics
+- JavaScript Numbers
+- JavaScript Functions
+- JavaScript Loops
+- JavaScript Arrays
+- JavaScript Objects
 
 ### Project Requirements
 
@@ -76,9 +93,9 @@ To meet the requirements of the project I also had to provide code comments.
 
 ### Additional Features
 
-Here I will list additional features that I implemented for the app, even though I didn't have to. These features may extend the functionality of the app, improve the user experience or beautify the user interface.
+Here are some additional features that I implemented for the app, even though I didn't have to. These features may extend the functionality of the app, improve the user experience or beautify the user interface.
 
-When I tested the project, I noticed that it is quite common to get the same quote twice in a row. I fixed it. In the current situation the quotes will start repeating themselves only after each quote has already been displayed on the page once.
+When I tested the project, I noticed that it is quite common to get the same quote twice in a row. I fixed that. In the current situation, the quotes will start repeating themselves only after each quote has already been displayed on the page once.
 
 ### Rating
 
@@ -94,7 +111,7 @@ This project received the **"Exceeds Expectations"** rating.
 ## Thanks
 
 <a href="https://teamtreehouse.com">
-  <img src="https://static.teamtreehouse.com/assets/marketing/opengraph/logo_twitter-cd0ecb90408499f45a2191805f54362981da5a69ddcfaa6ec93556d64e289036.png" alt="Treehouse Logo" width="500" height="250">
+  <img src="https://static.teamtreehouse.com/assets/marketing/opengraph/logo_twitter-cd0ecb90408499f45a2191805f54362981da5a69ddcfaa6ec93556d64e289036.png" alt="Treehouse Logo" width="100%" height="50%">
 </a>
 
 Thanks to [Treehouse](https://teamtreehouse.com) for providing the starter files for this project -
