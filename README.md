@@ -2,6 +2,20 @@
 
 A front end project I built for my portfolio during my studies at [Treehouse](https://teamtreehouse.com). The app displays random quotes each time a button is clicked. Quotes also automatically refresh every fifteen seconds.
 
+## Table of Contents
+
+- [Preview](https://github.com/zviels/random-quotes#preview)
+- [Quick Start](https://github.com/zviels/random-quotes#quick-start)
+- [Overview](https://github.com/zviels/random-quotes#overview)
+- [Built With](https://github.com/zviels/random-quotes#built-with)
+- [Thanks](https://github.com/zviels/random-quotes#thanks)
+
+## Preview
+
+<a href="https://zviels.github.io/random-quotes">
+  <img src="https://i.imgur.com/Yzk0iFv.gif" alt="App Preview" width="100%">
+</a>
+
 ## Quick Start
 
 To view the app -
@@ -22,13 +36,15 @@ As mentioned above, I developed this app as part of my studies at [Treehouse](ht
 
 Here is what I learned before I started working on the project -
 
-- Introduction to HTML and CSS
-- JavaScript Basics
-- JavaScript Numbers
-- JavaScript Functions
-- JavaScript Loops
-- JavaScript Arrays
-- JavaScript Objects
+- Introduction to HTML and CSS <img src="https://img.shields.io/badge/-HTML%20Course-3659a2" alt="HTML Course"> <img src="https://img.shields.io/badge/-CSS%20Course-3659a2" alt="CSS Course">
+- JavaScript Basics <img src="https://img.shields.io/badge/-JS%20Course-3659a2" alt="JS Course">
+- JavaScript Numbers <img src="https://img.shields.io/badge/-JS%20Course-3659a2" alt="JS Course">
+- JavaScript Functions <img src="https://img.shields.io/badge/-JS%20Course-3659a2" alt="JS Course">
+- JavaScript Loops <img src="https://img.shields.io/badge/-JS%20Course-3659a2" alt="JS Course">
+- JavaScript Arrays <img src="https://img.shields.io/badge/-JS%20Course-3659a2" alt="JS Course">
+- JavaScript Objects <img src="https://img.shields.io/badge/-JS%20Course-3659a2" alt="JS Course">
+
+I also learned how to use Slack, VS Code and GitHub Desktop.
 
 ### Project Requirements
 
@@ -102,6 +118,7 @@ When I tested the project, I noticed that it is quite common to get the same quo
 ### Rating
 
 There are two possible grades for each Techdegree project - "Meets Expectations" and "Exceeds Expectations".
+
 This project received the **"Exceeds Expectations"** rating.
 
 ## Built With
@@ -113,7 +130,7 @@ This project received the **"Exceeds Expectations"** rating.
 ## Thanks
 
 <a href="https://teamtreehouse.com">
-  <img src="https://static.teamtreehouse.com/assets/marketing/opengraph/logo_twitter-cd0ecb90408499f45a2191805f54362981da5a69ddcfaa6ec93556d64e289036.png" alt="Treehouse Logo" width="100%" height="50%">
+  <img src="https://static.teamtreehouse.com/assets/marketing/opengraph/logo_twitter-cd0ecb90408499f45a2191805f54362981da5a69ddcfaa6ec93556d64e289036.png" alt="Treehouse Logo" width="100%">
 </a>
 
 Thanks to [Treehouse](https://teamtreehouse.com) for providing the starter files for this project -
@@ -121,4 +138,4 @@ Thanks to [Treehouse](https://teamtreehouse.com) for providing the starter files
 - `index.html`
 - `styles.css`
 
-In addition, a huge thank you to everyone who reviewed the project!
+In addition, a huge thank you to everyone who reviewed the project! :grinning:
