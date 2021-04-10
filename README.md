@@ -4,11 +4,11 @@ A front end project I built for my portfolio during my studies at [Treehouse](ht
 
 ## Table of Contents
 
-- [Preview](https://github.com/zviels/random-quotes#preview)
-- [Quick Start](https://github.com/zviels/random-quotes#quick-start)
-- [Overview](https://github.com/zviels/random-quotes#overview)
-- [Built With](https://github.com/zviels/random-quotes#built-with)
-- [Thanks](https://github.com/zviels/random-quotes#thanks)
+- [Preview](https://github.com/zviels/random-quotes/tree/gh-pages#preview)
+- [Quick Start](https://github.com/zviels/random-quotes/tree/gh-pages#quick-start)
+- [Overview](https://github.com/zviels/random-quotes/tree/gh-pages#overview)
+- [Built With](https://github.com/zviels/random-quotes/tree/gh-pages#built-with)
+- [Thanks](https://github.com/zviels/random-quotes/tree/gh-pages#thanks)
 
 ## Preview
 
