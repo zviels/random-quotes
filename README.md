@@ -121,6 +121,8 @@ There are two possible grades for each Techdegree project - "Meets Expectations"
 
 This project received the **"Exceeds Expectations"** rating.
 
+:100:
+
 ## Built With
 
 - HTML
