@@ -20,7 +20,7 @@ A front end project I built for my portfolio during my studies at [Treehouse](ht
 
 To view the app -
 
-- You can [download the ZIP file](https://github.com/zviels/random-quotes/archive/refs/heads/master.zip), extract it and open `index.html`.
+- You can [download the ZIP file](https://github.com/zviels/random-quotes/archive/refs/heads/gh-pages.zip), extract it and open `index.html`.
 - Alternatively, you can watch the app online [here](https://zviels.github.io/random-quotes).
 
 ## Overview
